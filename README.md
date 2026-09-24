@@ -69,4 +69,4 @@ Face images and face encodings are biometric information. Use this project only 
 
 ## License
 
-No license file was visible in the repository when this README was prepared. Add a `LICENSE` file if you want to specify how others may use, modify, or distribute the project.
+This project is licensed under the terms of the MIT License.
